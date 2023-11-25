@@ -1,5 +1,5 @@
 # Script per *Soluzione numerica di equazioni integrali di Fredholm su domini poligonali*
-Questa *repository* contiene i codici MATLAB e Mathematica utilizzati nel capitolo 3 della tesi di Laurea Triennale in Matematica *Soluzione numerica di equazioni integrali di Fredholm su domini poligonali*, redatta sotto supervisione del prof. [Alvise Sommariva](https://www.math.unipd.it/~alvise/).
+Questa *repository* contiene i codici MATLAB e Wolfram Language utilizzati nel capitolo 3 della tesi di Laurea Triennale in Matematica *Soluzione numerica di equazioni integrali di Fredholm su domini poligonali*, redatta sotto supervisione del prof. [Alvise Sommariva](https://www.math.unipd.it/~alvise/).
 
 ## Istruzioni
 Da fare.
